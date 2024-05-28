@@ -8,4 +8,5 @@ Sou aluno e estudo sobre _Tecnologia e Robótica_ na _ESCOLA POROFESSOR JOSÉ DA
 
 📬 00001166406726sp@al.educacao.sp.gov.br
 📷@o.danjr1
-![](https://tenor.com/pt-BR/view/النصر-ronaldo-al-nassr-alnassr-nfc-6jir2-gif-10443924848334351167)
+
+![3f97fc5f25da173e3fbe3bb0fe256bd5](https://github.com/DaniloXVIII/Reposit_DanVIII/assets/171045311/9fb6cc8f-09c6-421c-9dad-97865458a37b)
