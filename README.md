@@ -2,7 +2,7 @@
 
 **Bem vindo ao meu perfil!**🔥
 
-Sou aluno e estudo sobre _Tecnologia e Robótica_ na ESCOLA POROFESSOR JOSÉ DA COSTA, em São Paulo e criei esse repositório para compartilhar os códigos das aulas!
+Sou aluno e estudo sobre _Tecnologia e Robótica_ na _ESCOLA POROFESSOR JOSÉ DA COSTA_, em _São Paulo_ e criei esse repositório para compartilhar os códigos que fizemos na Aula de _Tecnologia e Robótica_.
 
 🖱️💻📚📖
 
